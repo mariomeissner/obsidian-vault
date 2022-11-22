@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "3f2e8a096a220aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c05a58d6212fc592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bba9ef5fdf576d29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2022-11-22.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfc0361036821095",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5047365453e5d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8799616f5c09c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b7fce5059d4091",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abc6149542ded9ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "368239fefefb6544",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7f93d317bdc743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8053425bb6c98e6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2022-11-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8d36bf7faa7ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2022-11-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "766e0f83943b628b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67086d2d357b029f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2022-11-22.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bba9ef5fdf576d29",
+  "lastOpenFiles": [
+    "sabare.me.md",
+    "Projects/Blog with Digital Garden.md",
+    "Daily/2022-11-22.md"
+  ]
+}
