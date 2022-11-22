@@ -1,5 +1,11 @@
-# The Story of Stable Diffusion
- 
+---
+title: The Story of Stable Diffusion
+date: '2022-10-01'
+tags: []
+draft: false
+summary: A brief summary of my exploration of stable-diffusion-based ML models
+---
+
 ## Introduction
 
 [[Stable Diffusion]] is a novel image synthesis approach that took the world by surprise and made [big news](https://arstechnica.com/information-technology/2022/09/with-stable-diffusion-you-may-never-believe-what-you-see-online-again/) not only due to its surprising results, but also thanks to being completely open source, as opposed to the recently released alternatives.
