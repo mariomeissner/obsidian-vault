@@ -9,9 +9,10 @@
 - Git submodules or subtree to incorporate Vault files.
 
 ## Design Inspiration
-- [sabare.me](https://sabare.me) [source](https://github.com/Sabareh/sabareh.github.io)
+- https://sabare.me [source](https://github.com/Sabareh/sabareh.github.io)
 - https://www.leohuynh.dev/ [source](https://github.com/hta218/leohuynh.dev)
-- https://dhanrajsp.me/about
+- https://dhanrajsp.me
+- 
 
 ## Step Goals
 - [ ] Blog functionality
