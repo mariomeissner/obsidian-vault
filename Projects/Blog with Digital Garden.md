@@ -11,7 +11,7 @@
 ## Design Inspiration
 - [sabare.me](https://sabare.me) [source](https://github.com/Sabareh/sabareh.github.io)
 - https://www.leohuynh.dev/ [source](https://github.com/hta218/leohuynh.dev)
-- 
+- https://dhanrajsp.me/about
 
 ## Step Goals
 - [ ] Blog functionality

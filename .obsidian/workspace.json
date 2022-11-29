@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/The Story of Stable Diffusion.md",
+                "file": "Projects/Blog with Digital Garden.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/The Story of Stable Diffusion.md",
+                "file": "Projects/Blog with Digital Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/The Story of Stable Diffusion.md",
+                "file": "Projects/Blog with Digital Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/The Story of Stable Diffusion.md"
+                "file": "Projects/Blog with Digital Garden.md"
               }
             }
           }
@@ -137,9 +137,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd8799616f5c09c6",
+  "active": "bba9ef5fdf576d29",
   "lastOpenFiles": [
+    "Daily/2022-11-29.md",
     "Projects/Blog with Digital Garden.md",
+    "Daily/2022-11-24.md",
+    "Blog/The Story of Stable Diffusion.md",
     "Daily/2022-11-22.md",
     "sabare.me.md"
   ]
