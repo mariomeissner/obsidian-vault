@@ -11,7 +11,7 @@
             "id": "9263b39ab41de3ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/EMNLP-2022.md",
+                "file": "Garden/Stable Diffusion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,17 +32,11 @@
             "id": "64b802d8ff06aab1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Garden/Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,17 +148,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "64b802d8ff06aab1",
+  "active": "9263b39ab41de3ca",
   "lastOpenFiles": [
+    "Users/mario/Zotero/storage/GX8ESN9K/aghajanyan_2021_muppet_-_massive_multi-task_representations_with_pre-finetuning.pdf.md",
+    "Daily/2022-11-24.md",
+    "Garden/Stable Diffusion.md",
+    "Garden/Newthing.md",
+    "Garden/Test.md",
     "Garden/EMNLP-2022.md",
     "Papers/@naTrainFlatThen2022.md",
     "Blog/The Story of Stable Diffusion.md",
     "Blog/EMNLP 2022 - Neil Cohn's Keynote.md",
-    "Blog/EMNLP 2022 - Posters.md",
-    "Blog/EMNLP 2022 - Workshops.md",
-    "Images/cohn_grammar_tree.jpeg",
-    "Images/cohn_model.jpeg",
-    "Daily/2022-12-11.md",
-    "Daily/2022-12-10.md"
+    "Blog/EMNLP 2022 - Posters.md"
   ]
 }
