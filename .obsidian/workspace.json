@@ -11,7 +11,7 @@
             "id": "9263b39ab41de3ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -27,8 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64b802d8ff06aab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Garden/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,20 +147,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Garden/Test.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "dd8799616f5c09c6",
+  "active": "64b802d8ff06aab1",
   "lastOpenFiles": [
-    "Papers/@naTrainFlatThen2022.md",
     "Garden/EMNLP-2022.md",
+    "Papers/@naTrainFlatThen2022.md",
     "Blog/The Story of Stable Diffusion.md",
     "Blog/EMNLP 2022 - Neil Cohn's Keynote.md",
     "Blog/EMNLP 2022 - Posters.md",
