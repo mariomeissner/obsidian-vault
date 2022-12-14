@@ -11,13 +11,8 @@
             "id": "9263b39ab41de3ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/@naTrainFlatThen2022.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers/@naTrainFlatThen2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Papers/@naTrainFlatThen2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Papers/@naTrainFlatThen2022.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -152,8 +143,8 @@
   },
   "active": "dd8799616f5c09c6",
   "lastOpenFiles": [
-    "Garden/EMNLP-2022.md",
     "Papers/@naTrainFlatThen2022.md",
+    "Garden/EMNLP-2022.md",
     "Blog/The Story of Stable Diffusion.md",
     "Blog/EMNLP 2022 - Neil Cohn's Keynote.md",
     "Blog/EMNLP 2022 - Posters.md",
