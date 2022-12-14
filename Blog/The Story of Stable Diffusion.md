@@ -2,7 +2,7 @@
 title: The Story of Stable Diffusion
 date: '2022-10-01'
 tags: []
-draft: false
+status: draft
 summary: A brief summary of my exploration of stable-diffusion-based ML models
 ---
 

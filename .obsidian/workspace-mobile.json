@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2022-11-12.md",
+                "file": "Garden/EMNLP-2022.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -73,8 +74,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "fdd11e1338d55e2e",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2022-11-12.md",
+            "file": "Garden/EMNLP-2022.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Daily/2022-11-12.md",
+            "file": "Garden/EMNLP-2022.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,15 +115,18 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Daily/2022-11-12.md"
+            "file": "Garden/EMNLP-2022.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "c9e7340fd23ed29e",
+  "active": "072b22a1d7a72d17",
   "lastOpenFiles": [
+    "Valentin Afraimovich.md",
+    "Daily/2022-12-09.md",
+    "Daily/2022-12-01.md",
     "Home.md",
     "Projects/Blog with Digital Garden.md",
     "Books/Digital Minimalism.md",

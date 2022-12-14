@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c05a58d6212fc592",
+        "id": "0112dc081aa74a41",
         "type": "tabs",
         "children": [
           {
-            "id": "bba9ef5fdf576d29",
+            "id": "9263b39ab41de3ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Papers/@naTrainFlatThen2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0972ac1d2bf28234",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/EMNLP-2022.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#research_questions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Papers/@naTrainFlatThen2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Papers/@naTrainFlatThen2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md"
+                "file": "Papers/@naTrainFlatThen2022.md"
               }
             }
           }
@@ -137,13 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bba9ef5fdf576d29",
+  "active": "dd8799616f5c09c6",
   "lastOpenFiles": [
-    "Daily/2022-11-29.md",
-    "Projects/Blog with Digital Garden.md",
-    "Daily/2022-11-24.md",
+    "Garden/EMNLP-2022.md",
+    "Papers/@naTrainFlatThen2022.md",
     "Blog/The Story of Stable Diffusion.md",
-    "Daily/2022-11-22.md",
-    "sabare.me.md"
+    "Blog/EMNLP 2022 - Neil Cohn's Keynote.md",
+    "Blog/EMNLP 2022 - Posters.md",
+    "Blog/EMNLP 2022 - Workshops.md",
+    "Images/cohn_grammar_tree.jpeg",
+    "Images/cohn_model.jpeg",
+    "Daily/2022-12-11.md",
+    "Daily/2022-12-10.md"
   ]
 }
