@@ -1,5 +1,5 @@
 ---
-status: draft
+draft: false
 ---
 
 This post summarizes the keynote speech given by [[Neil Cohn]] at [[EMNLP-2022]]. He addressed the need to treat visual language as a first class language citizen. First, he showed how visual language shares many of the same properties that our spoken and written languages share, such as grammar, structure, and clear distinctions among the visual languages of different countries. He concluded with the announcement that he is working on releasing a large-scale visual language dataset based on comics from a large variety of countries with detailed annotations that can be used to further study the properties of visual languages. I especially liked his overview of how visual language fits into the broader scope of language in general. See below for details.
