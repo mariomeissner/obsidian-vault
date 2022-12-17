@@ -11,9 +11,11 @@ This post summarizes the keynote speech given by [[Neil Cohn]] at [[EMNLP-2022]]
 Cohn started his keynote by showcasing how comics have structured grammar and distinct properties among countries. First, he drew parallels between language grammars and comic structure.
 
 ![](/Images/cohn_graphic_grammar.jpeg)
+
 In this example, an embedded clause is contained in the narrative, and both the main storyline and the embedded storyline work well by themselves. This kind of structure is analogous to embedded clauses in natural languages.
 
 ![](cohn_grammar_tree.jpeg)
+
 Here, the syntax tree for the graphic narrative is shown.
 
 Further, graphic language such as comics does require a learning and acquisition stage, as it was shown that highly illiterate groups are not able to understand graphic structures such as comics. This acquisition is in a sense akin to natural language learning.
