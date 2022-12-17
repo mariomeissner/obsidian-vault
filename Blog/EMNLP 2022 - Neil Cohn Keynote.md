@@ -10,7 +10,7 @@ This post summarizes the keynote speech given by [[Neil Cohn]] at [[EMNLP-2022]]
 ## Visual Language as a first class citizen
 Cohn started his keynote by showcasing how comics have structured grammar and distinct properties among countries. First, he drew parallels between language grammars and comic structure.
 
-![](cohn_graphic_grammar.jpeg)
+![](/Images/cohn_graphic_grammar.jpeg)
 In this example, an embedded clause is contained in the narrative, and both the main storyline and the embedded storyline work well by themselves. This kind of structure is analogous to embedded clauses in natural languages.
 
 ![](cohn_grammar_tree.jpeg)
