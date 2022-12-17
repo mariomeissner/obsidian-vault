@@ -9,10 +9,11 @@ This post summarizes the keynote speech given by [[Neil Cohn]] at [[EMNLP-2022]]
 
 ## Visual Language as a first class citizen
 Cohn started his keynote by showcasing how comics have structured grammar and distinct properties among countries. First, he drew parallels between language grammars and comic structure.
-![[cohn_graphic_grammar.jpeg]]
+
+![](cohn_graphic_grammar.jpeg)
 In this example, an embedded clause is contained in the narrative, and both the main storyline and the embedded storyline work well by themselves. This kind of structure is analogous to embedded clauses in natural languages.
 
-![[cohn_grammar_tree.jpeg]]
+![](cohn_grammar_tree.jpeg)
 Here, the syntax tree for the graphic narrative is shown.
 
 Further, graphic language such as comics does require a learning and acquisition stage, as it was shown that highly illiterate groups are not able to understand graphic structures such as comics. This acquisition is in a sense akin to natural language learning.
@@ -21,7 +22,8 @@ Finally, graphic language is different among regions, some exhibiting unique pro
 
 ## Cohn's Language Model
 Graphic language fits into Cohn's proposed high-level model as a first-class component along written, spoken and body language, and consume similar grammatical structures to map to the same conceptual space.
-![[cohn_model.jpeg]]
+
+![](cohn_model.jpeg)
 
 ## The Comics Dataset
 His works involves annotating and releasing [datasets](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/LWMZ7G) to enable graphic language research. He announced that a new, larger scale dataset is on the works and may be released in the following months / years.
