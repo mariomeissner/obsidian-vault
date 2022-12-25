@@ -11,4 +11,7 @@ This blog post was written from the point of view of a back-end guy looking into
 In 2023, web development looks nothing like it did in 2010, and the sheer amount of resources available makes it daunting for any newcomer to understand what's going on. In this post, I aim to cover a brief history of web development and what the present and future of the space looks like.
 
 The static-ness line:
-- SSG (static site generation): we serve HTML directly
+- SSG (static site generation): we serve static HTML
+- SSR (server-side rendering): we serve dynamically server-generated HTML
+- CSR (client-side rendering): we serve a javascript bundle and the client generates HTML
+- 
