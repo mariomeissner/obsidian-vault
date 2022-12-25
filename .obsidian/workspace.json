@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8cfa52fe5c001b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Web Development in 2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Blog/Web Development in 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Blog/Web Development in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md"
+                "file": "Blog/Web Development in 2023.md"
               }
             }
           }
@@ -136,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "53f6a031f9ae5fd6",
+  "active": "d8cfa52fe5c001b0",
   "lastOpenFiles": [
-    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
     "Blog/The Story of Stable Diffusion.md",
+    "Blog/Web Development in 2023.md",
     "Blog/EMNLP 2022 - Workshops.md",
+    "Projects/Blog with Digital Garden.md",
+    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
     "Papers/@aghajanyanMuppetMassiveMultitask2021.md",
     "Papers/@naTrainFlatThen2022.md",
     "Papers/@afraimovichSequentialMemoryBinding2015.md",
     "Garden/Stable Diffusion.md",
-    "Users/mario/Zotero/storage/GX8ESN9K/aghajanyan_2021_muppet_-_massive_multi-task_representations_with_pre-finetuning.pdf.md",
-    "Daily/2022-11-24.md",
-    "Garden/Newthing.md"
+    "Users/mario/Zotero/storage/GX8ESN9K/aghajanyan_2021_muppet_-_massive_multi-task_representations_with_pre-finetuning.pdf.md"
   ]
 }
