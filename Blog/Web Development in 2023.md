@@ -26,10 +26,22 @@ It sounded promising, especially given the fact that clients become more powerfu
 
 ## The return to staticness
 
-
-By order of "staticnes":
+By order of "staticness":
 - SSG (static site generation): we serve static HTML
 - ISR (incremental static regeneration): we serve periodically updated static HTML
 - SSR (server-side rendering): we serve dynamically (on-request) generated static HTML
+- Middleware: 
 - CSR (client-side rendering): we serve a javascript bundle and the client generates HTML
+
+The term serverless is quite of a misnomer and very confusing, but you better get used to it, as it will surely remain an important buzzword in the field for years to come. But what does it mean?
+
+Serverless stands for "managed", meaning that you do not need to be in charge of the server yourself. Of course, a server running your code still exists. The whole internet runs on servers, which is why "serverless" is such a confusing name. 
+
+Traditionally, you would have your own on-premise servers, or hire a cloud server from a provider such as AWS or GCS. You are still in charge of managing server capacity, scaling, etc.
+
+With serverless, you hand over all responsibility to the provider, and simply define the code that you want to run. Provision, scaling, regional replication, and any other server-related matters will be handled by the provider, and you will be billed in milliseconds of execution time instead of a monthly server upkeep fee. You are no longer charged for idle-time! You no longer need to worry about choosing the right container size! However,  tt also means that you are now heavily restricted by the capabilities of the serverless provider, which are usually much narrower than an 
+
+## Serverless Databases
+
+## Starting a project in 2023? Make it serverless!
 
