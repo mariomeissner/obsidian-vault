@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd5ede75cb070748",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d8cfa52fe5c001b0",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bd5ede75cb070748",
   "lastOpenFiles": [
     "Blog/The Story of Stable Diffusion.md",
     "Blog/Web Development in 2023.md",
