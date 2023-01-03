@@ -13,6 +13,7 @@
 - https://www.leohuynh.dev/ [source](https://github.com/hta218/leohuynh.dev)
 - https://dhanrajsp.me
 - https://jahir.dev/ [source](https://github.com/jahirfiquitiva/jahir.dev)
+- https://cretu.dev/ [source](https://github.com/cristicretu/cretu.dev)
 
 ## Step Goals
 - [ ] Blog functionality
