@@ -12,7 +12,7 @@
 - https://sabare.me [source](https://github.com/Sabareh/sabareh.github.io)
 - https://www.leohuynh.dev/ [source](https://github.com/hta218/leohuynh.dev)
 - https://dhanrajsp.me
-- 
+- https://jahir.dev/ []
 
 ## Step Goals
 - [ ] Blog functionality
