@@ -20,3 +20,6 @@
 - [ ] Better about page
 - [ ] Fancy top bar
 
+## Inspirational features
+- "Technologies I use" section like in https://igorkowalczyk.dev/
+- 
