@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bd5ede75cb070748",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd5ede75cb070748",
+  "active": "d8cfa52fe5c001b0",
   "lastOpenFiles": [
     "Blog/The Story of Stable Diffusion.md",
     "Blog/Web Development in 2023.md",
