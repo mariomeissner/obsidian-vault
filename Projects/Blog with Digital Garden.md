@@ -21,6 +21,6 @@
 - [ ] Better about page
 - [ ] Fancy top bar
 
-## Inspirational features
+## Small Features
 - "Technologies I use" section like in https://igorkowalczyk.dev/
-- 
+- Page transition animations like in https://jahir.dev/
