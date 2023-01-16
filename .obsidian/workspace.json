@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Blog/Web Development in 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Blog/Web Development in 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Blog/Web Development in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md"
+                "file": "Blog/Web Development in 2023.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "53f6a031f9ae5fd6",
   "lastOpenFiles": [
+    "Projects/Blog with Digital Garden.md",
     "Blog/Web Development in 2023.md",
     "Blog/The Story of Stable Diffusion.md",
     "Blog/EMNLP 2022 - Workshops.md",
-    "Projects/Blog with Digital Garden.md",
     "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
     "Papers/@aghajanyanMuppetMassiveMultitask2021.md",
     "Papers/@naTrainFlatThen2022.md",
