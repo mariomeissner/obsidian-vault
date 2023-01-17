@@ -14,9 +14,16 @@ In 2023, web development looks nothing like it did in 2010, and the sheer amount
 
 In the beginning, there was only static. Websites were pure HTML that was manually edited. If you wanted to add a new product to your online store, you would add a new `div` to your `index.html`. 
 
+Unironically, you should still start from here if you're new to web development, and in some cases this is also enough for a very simple site.
+
 ## Servers and Templates
 
-Over time, dynamic features were introduced such as making your HTML life easier with templates, or requesting server-side data with API calls.
+Over time, dynamic features were introduced such as making your HTML life easier with templates, or requesting server-side data with API calls. Among others, Django and Ruby on Rails became extremely popular 
+
+Django is a Python framework for web applications that became very popular alongside Ruby on Rails as a way to write most of your business logic in a language that you may already be very familiar with, rather than Javascript. On top of writing backend code such as API endpoints and routes, you could also leverage their templating to write more accessible HTML and simple interactivity.
+
+However, these frameworks missed the Javascript revolution, becoming hard to integrate with modern frameworks like React and lacking serverless capabilities. It's not that they can't do it (see XXX and YYY for examples on how people are tying to make it happen), but the fundamental 
+
 
 ## Client-side rendering
 
@@ -44,4 +51,3 @@ With serverless, you hand over all responsibility to the provider, and simply de
 ## Serverless Databases
 
 ## Starting a project in 2023? Make it serverless!
-
