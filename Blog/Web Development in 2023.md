@@ -6,9 +6,9 @@ draft: true
 summary: What's going on in web development, from the point of view of an backend / machine learning person.
 ---
 
-This blog post was written from the point of view of a back-end guy looking into web development in 2023. My experience covers mostly data science, machine learning research and  a little bit of static site blogging using Jekyll.
+This blog post is written from the point of view of a back-end guy looking into web development in 2023. My experience covers mostly data science, machine learning research and  a little bit of static site blogging using Jekyll.
 
-In 2023, web development looks nothing like it did in 2010, and the sheer amount of resources available makes it daunting for any newcomer to understand what's going on. In this post, I aim to cover a brief history of web development and what the present and future of the space looks like.
+In 2023, web development looks nothing like it did in 2000, and the sheer amount of resources available makes it daunting for any newcomer to understand what's going on. In this post, I explain how I understand what has happened, and more importantly, is happening.
 
 Disclaimer: I am not a web development expert and everything written here comes from my (possibly inaccurate) personal experience and opinion.
 
