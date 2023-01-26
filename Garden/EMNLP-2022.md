@@ -1,6 +1,6 @@
 ## Workshops
 - My favorite discovery was probably [[@naTrainFlatThen2022]], touching upon model compression with pruning by revisiting the interesting concept of sharpness.
-- 
+- blabla
 
 ## Opening Keynote by [[Neil Cohn]]
 

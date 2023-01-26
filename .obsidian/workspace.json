@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Garden/Stable Diffusion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Garden/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md",
+                "file": "Garden/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Blog with Digital Garden.md"
+                "file": "Garden/Stable Diffusion.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd8799616f5c09c6",
+  "active": "53f6a031f9ae5fd6",
   "lastOpenFiles": [
+    "Garden/EMNLP-2022.md",
+    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
     "Blog/Web Development in 2023.md",
-    "Projects/Blog with Digital Garden.md",
     "Blog/The Story of Stable Diffusion.md",
     "Blog/EMNLP 2022 - Workshops.md",
-    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
+    "Blog/EMNLP 2022 - Posters.md",
+    "Projects/Blog with Digital Garden.md",
     "Papers/@aghajanyanMuppetMassiveMultitask2021.md",
     "Papers/@naTrainFlatThen2022.md",
-    "Papers/@afraimovichSequentialMemoryBinding2015.md",
-    "Garden/Stable Diffusion.md",
-    "Users/mario/Zotero/storage/GX8ESN9K/aghajanyan_2021_muppet_-_massive_multi-task_representations_with_pre-finetuning.pdf.md"
+    "Papers/@afraimovichSequentialMemoryBinding2015.md"
   ]
 }
