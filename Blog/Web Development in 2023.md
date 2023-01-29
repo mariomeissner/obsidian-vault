@@ -35,11 +35,17 @@ However, these frameworks missed the Javascript revolution, becoming hard to int
 
 ## Client-side rendering
 
-Spearheaded by React, a new category of web frameworks appeared  You could just serve a mini skeleton HTML containing just a root element, and a huge javascript bundle that runs on the browser and dynamically fills the content of the website with a virtual DOM. Without going into the depths of what a virtual DOM does, you can simply think of it as React (or any other client-side rendering framework) taking control over the browser and displaying content dynamically, as an additional layer on top of the HTML we sent from the server-side.
+Spearheaded by React, a new category of client-based web frameworks won over the hearts of web developers, especially those wishing to focus more on the front-end experience. Mainstream adoption began around 2015. You could just serve a small HTML skeleton containing just a root element, and a huge javascript bundle that runs on the browser and dynamically fills the content of the website with a virtual DOM. Without going into the depths of what a virtual DOM does, you can simply think of it as React (or any other client-side rendering framework) taking control over the browser and displaying content dynamically, as an additional layer on top of the HTML we sent from the server-side. It sounded promising, especially given the fact that client devices were getting more and more powerful CPUs over time, making it reasonable to displace this computational burden.
 
-It sounded promising, especially given the fact that clients become more powerful over time. Our smartphones and laptops have faster CPUs, and our browsers receive frequent updates with shiny new web features. 
+However, this introduced two major issues:
+- Large bundle sizes and client rendering means increased time to interactive (TTI).
+- Empty server HTML means very poor search-engine optimization (SEO).
+
+The former means that websites became slower and plagued with loading spinners awaiting some fetched data; the latter means that your website ranks poor on Google because their crawlers don't want to run heavy Javascript so they only look at the original HTML (which means an empty skeleton).
 
 ## The return to the server
+
+The modern wave of web frameworks attempt to take the best bits and lessons learned from the pure React era, while shifting back to the benefits of the server. 
 
 By order of "staticness":
 - SSG (static site generation): we serve static HTML
