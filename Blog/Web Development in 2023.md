@@ -54,7 +54,11 @@ By order of "staticness":
 - Middleware: 
 - CSR (client-side rendering): we serve a javascript bundle and the client generates HTML
 
-The higher you are on this static-ness ladder
+The higher you are on this staticness ladder, the better. But why focus so much on staticness? First of all, it solves the two issues mentioned in the previous section: it's fast and its SEO optimized, and we are happy because we can write React code as usual. There's one last reason though...
+
+## The edge
+
+The edge is a shiny new term to denote servers that are very close to your client, oftentimes also called content delivery networks (CDNs), popularized by providers such as CloudFlare.
 
 ## The serverlessification
 
