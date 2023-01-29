@@ -45,7 +45,7 @@ The former means that websites became slower and plagued with loading spinners a
 
 ## The return to the server
 
-The modern wave of web frameworks attempt to take the best bits and lessons learned from the pure React era, while shifting back to the benefits of the server. 
+The modern wave of web frameworks attempt to take the best bits and lessons learned from the pure React era, while shifting back to the benefits of the server. [Next.js]()  
 
 By order of "staticness":
 - SSG (static site generation): we serve static HTML
