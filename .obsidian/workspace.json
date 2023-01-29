@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "982e4084486ce670",
+        "id": "196fca5b1dae2c57",
         "type": "tabs",
         "children": [
           {
-            "id": "53f6a031f9ae5fd6",
+            "id": "5d94360b11a9dd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Stable Diffusion.md",
+                "file": "Blog/Web Development in 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Stable Diffusion.md",
+                "file": "Blog/Web Development in 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden/Stable Diffusion.md",
+                "file": "Blog/Web Development in 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Garden/Stable Diffusion.md"
+                "file": "Blog/Web Development in 2023.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f6a031f9ae5fd6",
+  "active": "dd8799616f5c09c6",
   "lastOpenFiles": [
+    "Garden/Stable Diffusion.md",
     "Garden/EMNLP-2022.md",
     "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
     "Blog/Web Development in 2023.md",
@@ -156,7 +157,6 @@
     "Blog/EMNLP 2022 - Posters.md",
     "Projects/Blog with Digital Garden.md",
     "Papers/@aghajanyanMuppetMassiveMultitask2021.md",
-    "Papers/@naTrainFlatThen2022.md",
-    "Papers/@afraimovichSequentialMemoryBinding2015.md"
+    "Papers/@naTrainFlatThen2022.md"
   ]
 }
