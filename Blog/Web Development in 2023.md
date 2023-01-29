@@ -45,7 +45,7 @@ The former means that websites became slower and plagued with loading spinners a
 
 ## The return to the server
 
-The modern wave of web frameworks attempt to take the best bits and lessons learned from the pure React era, while shifting back to the benefits of the server. [Next.js]()  
+The modern wave of web frameworks attempt to take the best bits and lessons learned from the pure React era, while shifting back to the benefits of the server. [Next.js]() has quickly become a new standard for React web development, by helping shift the computation back to the server. Users can choose with a high degree of granularity how to render each page, depending on interactivity requirements.
 
 By order of "staticness":
 - SSG (static site generation): we serve static HTML
@@ -53,6 +53,10 @@ By order of "staticness":
 - SSR (server-side rendering): we serve dynamically (on-request) generated static HTML
 - Middleware: 
 - CSR (client-side rendering): we serve a javascript bundle and the client generates HTML
+
+The higher you are on this static-ness ladder
+
+## The serverlessification
 
 The term serverless is quite of a misnomer and very confusing, but you better get used to it, as it will surely remain an important buzzword in the field for years to come. But what does it mean?
 
