@@ -72,8 +72,10 @@ Traditionally, you would have your own on-premise servers, or hire a cloud serve
 
 With serverless, you hand over all responsibility to the provider, and simply define the code that you want to run. Provision, scaling, regional replication, and any other server-related matters will be handled by the provider, and you will be billed in milliseconds of execution time instead of a monthly server upkeep fee. You are no longer charged for idle-time! You no longer need to worry about choosing the right container size! However, it also means that you are now heavily restricted by the capabilities of the serverless provider, which are usually much narrower than a self-managed alternative.
 
-Serverless services include, but are not limited to, serving API endpoints (AWS Lambda), authentication 
-
-
+Serverless services include, but are not limited to, serving your static page routes on the edge, serving API endpoints (AWS Lambda), provisioning a database (PlanetScale, CockroachDB). 
 
 ## Starting a project in 2023? Make it serverless!
+
+Unless you have very specific requirements in mind that block you from doing so, going serverless is a great default for 2023. It allows you to focus on your product, not on the engineering required to get it going. Getting started is usually free or very inexpensive.
+
+My personal project for 2023 is Paper Studio, and I am building it on Next.js and PlanetScale. I will share my journey with you on this blog as I go along!
