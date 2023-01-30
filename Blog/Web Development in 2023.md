@@ -58,7 +58,9 @@ The higher you are on this staticness ladder, the better. But why focus so much 
 
 ## The edge
 
-The edge is a shiny new term to denote servers that are very close to your client, oftentimes also called content delivery networks (CDNs), popularized by providers such as CloudFlare.
+The edge is a shiny new term to denote servers that are very close to your client, oftentimes also called content delivery networks (CDNs), popularized by providers such as CloudFlare. They're usually only able to serve static content, so they are often used to serve library bundles. However, they can also be used to serve HTML, assuming it's static (doesn't have data requirements).
+
+This brings us back to the staticness ladder. The higher you climb, the more you can make use of CDNs to serve your website. Using this system makes your website blazingly fast.
 
 ## The serverlessification
 
@@ -68,8 +70,10 @@ Serverless stands for "managed", meaning that you do not need to be in charge of
 
 Traditionally, you would have your own on-premise servers, or hire a cloud server from a provider such as AWS or GCS. You are still in charge of managing server capacity, scaling, etc.
 
-With serverless, you hand over all responsibility to the provider, and simply define the code that you want to run. Provision, scaling, regional replication, and any other server-related matters will be handled by the provider, and you will be billed in milliseconds of execution time instead of a monthly server upkeep fee. You are no longer charged for idle-time! You no longer need to worry about choosing the right container size! However,  tt also means that you are now heavily restricted by the capabilities of the serverless provider, which are usually much narrower than an 
+With serverless, you hand over all responsibility to the provider, and simply define the code that you want to run. Provision, scaling, regional replication, and any other server-related matters will be handled by the provider, and you will be billed in milliseconds of execution time instead of a monthly server upkeep fee. You are no longer charged for idle-time! You no longer need to worry about choosing the right container size! However, it also means that you are now heavily restricted by the capabilities of the serverless provider, which are usually much narrower than a self-managed alternative.
 
-## Serverless Databases
+Serverless services include, but are not limited to, serving API endpoints (AWS Lambda), authentication 
+
+
 
 ## Starting a project in 2023? Make it serverless!
