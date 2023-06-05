@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Drafts/Learning web development is like attending a history class.md",
+                "file": "Garden/paperstudio.app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +170,11 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "e50d26fb11ff981a",
+  "active": "6fc4214deacfd3e7",
   "lastOpenFiles": [
-    "Blog/Drafts/EMNLP 2022 - Posters.md",
+    "Garden/paperstudio.app.md",
     "Blog/Drafts/Learning web development is like attending a history class.md",
+    "Blog/Drafts/EMNLP 2022 - Posters.md",
     "Blog/Drafts/The Story of Stable Diffusion.md",
     "Blog/Drafts/The best way to write mutations in React.md",
     "Blog/Drafts/EMNLP 2022 - Workshops.md",

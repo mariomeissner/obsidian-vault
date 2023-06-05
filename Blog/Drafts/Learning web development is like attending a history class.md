@@ -87,4 +87,4 @@ Serverless services include, but are not limited to, serving your static page ro
 
 Unless you have very specific requirements in mind that block you from doing so, going serverless is a great default for 2023. It allows you to focus on your product, not on the engineering required to get it going. Getting started is usually free or very inexpensive.
 
-My personal project for 2023 is Paper Studio, and I am building it on Next.js and PlanetScale. I will share my journey with you on this blog as I go along!
+My personal project for 2023 is [Paper Studio](https://paperstudio.app), and I am building it on Next.js and PlanetScale. Stay tuned for my updates on this!
