@@ -44,7 +44,7 @@ However, this introduced two major issues:
 - Large bundle sizes and client rendering means increased time to interactive (TTI).
 - Empty server HTML means very poor search-engine optimization (SEO).
 
-The former means that websites became slower and plagued with loading spinners awaiting some fetched data; the latter means that your website ranks poor on Google because their crawlers don't want to run heavy Javascript so they only look at the original HTML (which means an empty skeleton).
+The former means that websites became slower and plagued with loading spinners awaiting some fetched data; the latter means that your website ranks poor on Google because their crawlers don't run Javascript so they only look at the original empty HTML.
 
 ## The return to the server
 
@@ -53,17 +53,23 @@ The modern wave of web frameworks attempt to take the best bits and lessons lear
 By order of "staticness":
 - SSG (static site generation): we serve static HTML
 - ISR (incremental static regeneration): we serve periodically updated static HTML
-- SSR (server-side rendering): we serve dynamically (on-request) generated static HTML
-- Middleware: 
+- SSR (server-side rendering): we serve dynamically (on-request) generated static HTML (this is like Django!)
+- Middleware: ???
 - CSR (client-side rendering): we serve a javascript bundle and the client generates HTML
 
-The higher you are on this staticness ladder, the better. But why focus so much on staticness? First of all, it solves the two issues mentioned in the previous section: it's fast and its SEO optimized, and we are happy because we can write React code as usual. There's one last reason though...
+But... why focus so much on staticness? First of all, it solves the two issues mentioned in the previous section: it's fast and its SEO optimized, and we are happy because we can write React code as usual. The higher you are on this staticness ladder, the faster your website becomes, and the easier you can manage your SEO. But of course, it severely limits what you can do. The beauty of these frameworks is that you can pick and choose the method for each page in your website individually.
+
+And then, there's the last little beast that plays into all of this...
 
 ## The edge
 
 The edge is a shiny new term to denote servers that are very close to your client, oftentimes also called content delivery networks (CDNs), popularized by providers such as CloudFlare. They're usually only able to serve static content, so they are often used to serve library bundles. However, they can also be used to serve HTML, assuming it's static (doesn't have data requirements).
 
 This brings us back to the staticness ladder. The higher you climb, the more you can make use of CDNs to serve your website. Using this system makes your website blazingly fast.
+
+This "edge" is very different from how Django does things, since the latter requires a managed server running at all times, while the former spins a tiny provider up and down and scales in any direction you need, automatically.
+
+This brings me to my last point...
 
 ## The serverlessification
 
