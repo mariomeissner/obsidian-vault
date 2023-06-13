@@ -1,3 +1,5 @@
 Mutations are a messy subject. Of course we can just use `fetch` or `axios`  on an POST API endpoint, but when do you update the UI? Immediately, or after the status reply comes back? Ideally, I'd like the former (optimistically assume success), but then you have to manually roll back the changes if you end up receiving an error status.
 
-I've come to love Tanstack Query (formerly React Query) for it makes 
+I've come to love Tanstack Query (formerly React Query) for it makes dealing with queries, and especially mutations, a bliss. When defining a mutation, you can implement a few hooks that get triggered when the mutation starts, succeeds and fails. On start, you can define logic for optimistically updating the data, and on failure you can reset the data to its original state.
+
+The reason why this is way better than using `fetch` or `axios` is 
