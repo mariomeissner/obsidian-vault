@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "348006a4118a2272",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
             "id": "e50d26fb11ff981a",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "ava:Ava - Open Rewrite Playground": false
     }
   },
-  "active": "6fc4214deacfd3e7",
+  "active": "348006a4118a2272",
   "lastOpenFiles": [
     "Garden/paperstudio.app.md",
     "Blog/Drafts/Learning web development is like attending a history class.md",
