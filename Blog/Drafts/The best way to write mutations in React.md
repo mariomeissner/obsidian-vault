@@ -1,1 +1,3 @@
-Mutations are a messy subject. Of course we can just use `fetch` or `axios`  on an POST API endpoint, but when do you update the UI? Immediately, or after the 
+Mutations are a messy subject. Of course we can just use `fetch` or `axios`  on an POST API endpoint, but when do you update the UI? Immediately, or after the status reply comes back? Ideally, I'd like the former (optimistically assume success), but then you have to manually roll back the changes if you end up receiving an error status.
+
+I've come to love Tanstack Query (formerly React Query) for it makes 
