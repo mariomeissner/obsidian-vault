@@ -8,7 +8,7 @@ summary: What's going on in web development, from the point of view of an backen
 
 <Note>This blog post is written from the point of view of a back-end-turned-full-stack engineer by exploring web development in 2023.</Note>
 
-I've always been a Python guy. Although my first two languages were Java and C, I quickly found comfort in the concise and elegant syntax of Python.
+I found the current web development landscape to be highly influenced by its past. Join me in this short journey as I tried to get a basic understanding of how this all came to be.
 
 ## The Static Beginnings
 
@@ -16,7 +16,7 @@ In the beginning, there was only static. Websites were pure HTML that was manual
 
 Total bliss, if you ask me.
 
-You should start here if you are new to web dev, since it teaches the basics of how HTML works, and what the browser does with it.
+But of course, we quickly craved for more.
 
 ## Javascript Interactivity
 

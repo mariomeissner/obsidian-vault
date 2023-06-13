@@ -1,0 +1,1 @@
+Mutations are a messy subject. Of course we can just use `fetch` or `axios`  on an POST API endpoint, but when do you update the UI? Immediately, or after the 
