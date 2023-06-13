@@ -6,9 +6,9 @@ draft: true
 summary: What's going on in web development, from the point of view of an backend / machine learning person.
 ---
 
-This blog post is written from the point of view of a back-end turned full-stack engineer by exploring web development in 2023.
+<Note>This blog post is written from the point of view of a back-end-turned-full-stack engineer by exploring web development in 2023.</Note>
 
-...
+I've always been a Python guy. Although my first two languages were Java and C, I quickly found comfort in the concise and elegant syntax of Python.
 
 ## The Static Beginnings
 
