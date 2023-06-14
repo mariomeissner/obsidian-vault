@@ -2,4 +2,4 @@ Mutations are a messy subject. Of course we can just use `fetch` or `axios`  on 
 
 I've come to love Tanstack Query (formerly React Query) for it makes dealing with queries, and especially mutations, a bliss. When defining a mutation, you can implement a few hooks that get triggered when the mutation starts, succeeds and fails. On start, you can define logic for optimistically updating the data, and on failure you can reset the data to its original state.
 
-The reason why this is way better than using `fetch` or `axios` is 
+The reason why this is way better than using `fetch` or `axios` is that the latter would require me to handle the logic of `setData` by myself. The end result (our fetched data variable) is always tidy and fresh and optimistically up-to-date when using Tanstack Query.
