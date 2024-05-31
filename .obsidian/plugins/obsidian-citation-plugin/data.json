@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Papers",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\ncitekey: {{citekey}}\nauthors: {{authorString}}\nyear: {{year}}\ndoi: {{doi}}\n---\n\n## {{title}}\n([Open in Zotero]({{zoteroSelectURI}}))\n\n## Abstract\n{{abstract}}\n\n## Notes\n{{note}}\n\n## #research_questions",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/mario/Documents/Zotero Exports/My Library.bib"
+}

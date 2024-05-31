@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3f2e8a096a220aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a9868464668bf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6b6b88befe0f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfc0361036821095",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5047365453e5d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8799616f5c09c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b7fce5059d4091",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#research_questions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abc6149542ded9ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f69f3f2433504250",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "368239fefefb6544",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7f93d317bdc743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8053425bb6c98e6d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8d36bf7faa7ebd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "766e0f83943b628b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67086d2d357b029f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c6b6b88befe0f34",
+  "lastOpenFiles": [
+    "Blog/Drafts/The best way to write mutations in React.md",
+    "Projects/Blog with Digital Garden.md",
+    "Blog/Drafts/Learning web development is like attending a history class.md",
+    "Books/Digital Minimalism.md",
+    "Garden/Cal Newport.md",
+    "Garden/EMNLP-2022.md",
+    "Garden/movement pruning.md",
+    "Garden/sharpness-aware loss function.md",
+    "Papers/Muppet - Massive Multi-task Representations with Pre-Finetuning.md",
+    "Papers/Train Flat, then Compress.md",
+    "Garden/paperstudio.app.md",
+    "Garden/Stable Diffusion.md",
+    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
+    "Blog/Drafts/EMNLP 2022 - Workshops.md",
+    "Blog/Drafts/EMNLP 2022 - Posters.md",
+    "Blog/Drafts/The Story of Stable Diffusion.md",
+    "Musings",
+    "Images/cohn_grammar_tree.jpeg",
+    "Daily/2022-11-12.md",
+    "Daily/2022-12-11.md",
+    "Daily/2022-12-10.md",
+    "Daily/2022-12-09.md",
+    "Daily/2022-12-08.md",
+    "Daily/2022-12-07.md",
+    "Daily/2022-12-01.md",
+    "Daily/2022-11-29.md",
+    "Daily/2022-11-24.md",
+    "Daily/2022-11-22.md"
+  ]
+}

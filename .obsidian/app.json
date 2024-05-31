@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "tabSize": 6,
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Garden",
+  "alwaysUpdateLinks": true
+}
