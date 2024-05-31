@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Books/Fluent Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Books/Fluent Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Books/Fluent Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Books/Fluent Python.md"
               }
             }
           }
@@ -156,25 +156,19 @@
   },
   "active": "9c6b6b88befe0f34",
   "lastOpenFiles": [
-    "Blog/Drafts/The best way to write mutations in React.md",
-    "Projects/Blog with Digital Garden.md",
-    "Blog/Drafts/Learning web development is like attending a history class.md",
     "Books/Digital Minimalism.md",
-    "Garden/Cal Newport.md",
-    "Garden/EMNLP-2022.md",
-    "Garden/movement pruning.md",
-    "Garden/sharpness-aware loss function.md",
-    "Papers/Muppet - Massive Multi-task Representations with Pre-Finetuning.md",
+    "Books/Fluent Python.md",
+    "Home.md",
     "Papers/Train Flat, then Compress.md",
+    "Papers/Muppet - Massive Multi-task Representations with Pre-Finetuning.md",
+    "Garden/sharpness-aware loss function.md",
+    "Garden/movement pruning.md",
+    "Projects/Blog with Digital Garden.md",
+    "Projects",
+    "Papers/@naTrainFlatThen2022.md",
+    "Papers/@aghajanyanMuppetMassiveMultitask2021.md",
     "Garden/paperstudio.app.md",
     "Garden/Stable Diffusion.md",
-    "Blog/EMNLP 2022 - Neil Cohn Keynote.md",
-    "Blog/Drafts/EMNLP 2022 - Workshops.md",
-    "Blog/Drafts/EMNLP 2022 - Posters.md",
-    "Blog/Drafts/The Story of Stable Diffusion.md",
-    "Musings",
-    "Images/cohn_grammar_tree.jpeg",
-    "Daily/2022-11-12.md",
     "Daily/2022-12-11.md",
     "Daily/2022-12-10.md",
     "Daily/2022-12-09.md",
@@ -183,6 +177,13 @@
     "Daily/2022-12-01.md",
     "Daily/2022-11-29.md",
     "Daily/2022-11-24.md",
-    "Daily/2022-11-22.md"
+    "Daily/2022-11-22.md",
+    "Daily/2022-11-12.md",
+    "Blog/Drafts/The Story of Stable Diffusion.md",
+    "Blog/Drafts/EMNLP 2022 - Workshops.md",
+    "Blog/Drafts/EMNLP 2022 - Posters.md",
+    "Ava - Getting Started.md",
+    "Musings",
+    "Images/cohn_grammar_tree.jpeg"
   ]
 }
